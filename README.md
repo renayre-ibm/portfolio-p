@@ -1,4 +1,4 @@
 # Renayre Forbes UX Portfolio
 
 [Portfolio](https://ibm.biz/BdGKTb)<br />
-Contains: Experience and Personal Projects
+Created with Adobe Xd. Contains information about professional experience and personal projects. Best viewed with full screen. 
